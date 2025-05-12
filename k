@@ -1,4 +1,4 @@
-
+script_key="INSERT YOU'RE KEY";
 shared.Saved = {
     ["Universal"] = {
         ["Indicators"] = { ["Enabled"] = false },
