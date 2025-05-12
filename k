@@ -100,3 +100,4 @@ shared.Saved = {
         ["SilentAimBoxField"] = { ["Visible"] = false, ["Sync"] = false, ["Width"] = 8, ["Height"] = 8 }
     }
 }
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e5285961e845256dfa7479d090cf6672.lua"))()
